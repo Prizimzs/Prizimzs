@@ -1,9 +1,9 @@
 # Aspiring Developer
 
-- • Hi, I’m Prizimzs
-- • I’m interested in making the world more advanced and affordable
-- • I’m currently learning Advanced Python, Ruby, Rust, CSS, HTML, C++ and Eletrical Storage
-- • I’m looking to collaborate on Heart Rate Projects which could make Seizure detecting watches more affordable
+- Hi, I’m Prizimzs
+- I’m interested in making the world more advanced and affordable
+- I’m currently learning Advanced Python, Ruby, Rust, CSS, HTML, C++, Golang and Eletrical Storage
+- I’m looking to collaborate on Heart Rate Projects which could make Seizure detecting watches more affordable
 
 ## You can find me on 
 ![GitHub-Mark-64px](https://user-images.githubusercontent.com/66744597/125489637-9ebc8904-c87e-42ec-80a2-59a533e41976.png)
