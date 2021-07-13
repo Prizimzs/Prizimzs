@@ -12,7 +12,7 @@
 
 ## :computer: Projects
 
-<img src="https://i.pinimg.com/originals/bb/45/5e/bb455e779c5eec9d7fc6d161b8d36025.png" width="15px" height="15px" alt="js-icon"> &nbsp; [Game-Bug Bot](https://github.com/EternalVictim/Prizimzs-Friend2) (Communication Device) <br>
+<img src="https://i.pinimg.com/originals/bb/45/5e/bb455e779c5eec9d7fc6d161b8d36025.png" width="15px" height="15px" alt="js-icon"> &nbsp; [Communication Server](https://github.com/EternalVictim/Prizimzs-Friend2) (Communication Device) <br>
 <!---
 EternalVictim/EternalVictim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
