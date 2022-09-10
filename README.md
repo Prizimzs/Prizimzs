@@ -1,19 +1,32 @@
-# Aspiring Developer
-
-- Hi, I’m Prizimzs
-- I’m interested in making the world more advanced and affordable
-- I’m currently learning Advanced Python, Rust, JavaScript, HTML.
-- I’m looking to collaborate on Heart Rate Projects which could make Seizure detecting watches more affordable
-
-## You can find me on 
-![GitHub-Mark-64px](https://user-images.githubusercontent.com/66744597/125489637-9ebc8904-c87e-42ec-80a2-59a533e41976.png)
-
+<h3 align="center">Full Stack Developer</h3>
+<p align="center">I am a Full Stack Developer in training who is trying out new projects and languages! I have experience in: 
+Python/JS/C/Java/PHP/SQL/HTML/CSS/C++/C# and more!</p>
 <br>
+<h3 align="center">Languages I know<br></h3>
 
-## :computer: Projects
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-23272A?style=flat&logo=python">
+</p>
 
-<img src="https://i.pinimg.com/originals/bb/45/5e/bb455e779c5eec9d7fc6d161b8d36025.png" width="15px" height="15px" alt="js-icon"> &nbsp; [Yux](https://github.com/EternalVictim/Prizimzs-Friend2) (Communication Server) <br>
-<!---
-EternalVictim/EternalVictim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">Languages I'd like to learn<br></h3>
+
+<p align="center">
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-23272A?style=flat&logo=javascript">
+<img alt="SQL" src="https://img.shields.io/badge/-SQL-23272A?style=flat&logo=postgresql">
+<img alt="C++" src="https://img.shields.io/badge/-C++-23272A?style=flat&logo=c%2B%2B">
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-23272A?style=flat&logo=html5">
+</p>
+
+<h3 align="center">Software I use<br></h3>
+
+<p align="center">
+  <img alt="Windows" src="https://img.shields.io/badge/-Windows-23272A?style=flat&logo=windows">
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-23272A?style=flat&logo=linux">
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-23272A?style=flat&logo=ubuntu">
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-23272A?style=flat&logo=github">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-23272A?style=flat&logo=visual-studio-code">
+  <img alt="Discord" src="https://img.shields.io/badge/-Discord-23272A?style=flat&logo=discord">
+  <img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime Text-23272A?style=flat&logo=sublime-text"
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-23272A?style=flat&logo=kubernetes">
+  <img alt="Adobe Illustator" src="https://img.shields.io/badge/-Adobe Illustrator-23272A?style=flat&logo=adobe-illustrator">
+</p><br>
