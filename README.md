@@ -12,7 +12,7 @@ Python/Javascript</p>
 <h3 align="center">Languages I'd like to learn<br></h3>
 
 <p align="center">
-<img alt="Java" src="https://img.shields.io/badge/-Java-23272A?style=flat&logo=postgresql">
+<img alt="Java" src="https://img.shields.io/badge/-Java-23272A?style=flat&logo=Java">
 <img alt="C++" src="https://img.shields.io/badge/-C++-23272A?style=flat&logo=c%2B%2B">
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-23272A?style=flat&logo=html5">
 <img alt="C" src="https://img.shields.io/badge/-C-23272A?style=flat&logo=C">
