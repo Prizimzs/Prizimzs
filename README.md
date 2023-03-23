@@ -11,7 +11,9 @@ Python/Javascript</p>
 </p>
 
 <h3 align="center">Languages I'm Learning<br></h3>
+<p align="center">
 <img alt="C++" src="https://img.shields.io/badge/-C++-23272A?style=flat&logo=c%2B%2B">
+</p>
 
 <h3 align="center">Languages I'd like to learn<br></h3>
 
